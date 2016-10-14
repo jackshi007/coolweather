@@ -43,7 +43,6 @@ public class ChooseAreaActivity extends Activity {
     private List<County> countyList;
     private Province selectedProvince;
     private City selectedCity;
-    private County selectedCounty;
     private int currentLevel;
 
     @Override
